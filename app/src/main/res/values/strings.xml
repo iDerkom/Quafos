@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quafos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="transaction">Transaktion</string>
+    <string name="databaseTable">Datenbanktabelle</string>
+</resources>
