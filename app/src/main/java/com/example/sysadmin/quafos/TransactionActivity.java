@@ -45,7 +45,7 @@ public class TransactionActivity extends Activity {
             // Antwort ist falsch
             InfoDialog.showDialog(this, "Ihre Antwort ist leider falsch.");
 
-        // Zeige nächste Frage.
+        // Zeige nächste Frage..
         showQuestin();
     }
 }
